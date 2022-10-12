@@ -8,7 +8,6 @@ A quick resource to find ideas for great places to go locally, a bit farther out
 **Tech used:** HTML, CSS, JavaScript
 
 ## Optimizations
-*(optional)*
 
 Would love to expand this to a full-stack social app so that users could submit places to expand the lists. 
 
